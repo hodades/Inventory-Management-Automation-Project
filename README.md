@@ -56,13 +56,13 @@ For the product **ID 112481**, the values new = 0, forecast_stock = 0, and stock
 
 Expectations of the "inventory management" team
 **1. Promotion of new products**
-* **Goal**: Highlight new products on the site and create an advertising campaign.
-* Application ads_manager & Site-ecommerce
+Goal: Highlight new products on the site and create an advertising campaign.
+Application ads_manager & Site-ecommerce
 **2. Out of stock**
-* **Goal**: Remove out-of-stock items from the site to avoid customer frustration.
+Goal: Remove out-of-stock items from the site to avoid customer frustration.
 * Application Site-ecommerce
 **3. Replenishment**
-* **Goal**: Monitor and optimize stock levels. Indicate the quantity to replenish and why this choice?
+Goal : Monitor and optimize stock levels. Indicate the quantity to replenish and why this choice?
 * Application Supply_order
 
 ## Technologies Used
