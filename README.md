@@ -18,7 +18,8 @@ The main goal was to centralize inventory information and coordinate team activi
    - **Real-Time Monitoring**: Continuously tracks stock levels and generates alerts when restocking or product promotion is needed.
    - **Promotion Optimization**: Automatically identifies products to promote on the website and updates advertising campaigns accordingly.
    - **Price Management**: Adjusts product prices to optimize profitability based on performance metrics.
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/864bf486-b9e2-4b04-85f9-47ce13f82987/0337b850-cbb2-4697-b72d-55ccd3f8ceaf/image.png)
+     
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/864bf486-b9e2-4b04-85f9-47ce13f82987/0337b850-cbb2-4697-b72d-55ccd3f8ceaf/image.png)
 ## Technologies Used
 - **Make**: For data analysis, workflow automation, and generating recommendations.
 - **Slack API**: For sending notifications and integrating with stock management workflows.
