@@ -23,7 +23,9 @@ The main goal was to centralize inventory information and coordinate team activi
 
 ## How to read the Google Sheet :
 
-How to read the table (monthly period) Link to the sheet : https://docs.google.com/spreadsheets/d/1fn-v3ap5PYGGae0xDJGpMpt2f9qMOPVIiMsiA7Fk8UQ/edit?gid=0#gid=0
+How to read the table (monthly period) Link to the sheet :
+https://docs.google.com/spreadsheets/d/1fn-v3ap5PYGGae0xDJGpMpt2f9qMOPVIiMsiA7Fk8UQ/edit?gid=0#gid=0
+
 Let's analyze the product line with **ID: 13346**:
 * **product_id: 13346**
 * **category_1: Home**
